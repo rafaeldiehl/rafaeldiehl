@@ -1,7 +1,7 @@
 
 <div align="center">
- <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" />
-  <samp align="center">👋 Hello, World!</samp>
+ <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" /><br>
+  <samp align="center">👋 Hello, World!</samp><br>
 </div>
 
 <br>
@@ -44,7 +44,7 @@
 <hr>
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&" alt="rafaeldiehl"/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact" alt="rafaeldiehl" />
+  <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="rafaeldiehl"/></a>
+  <a target="_blank" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true" alt="rafaeldiehl" /></a>
   
   <p align="center">Obs: As principais linguagens não indicam minha habilidade, é uma estatística das linguagens eu mais tenho código.</p>
