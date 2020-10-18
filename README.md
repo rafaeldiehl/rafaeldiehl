@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">"Somos aquilo que fazemos repetidamente. A excelência, <br>portanto, não é um feito, mas um hábito."<br>― Will Durant</p>
-<br>
+
 <hr>
 
 <h4 align="center">Linguagens e ferramentas</h4>
@@ -43,8 +43,9 @@
 
 <hr>
 
-
+<p align="center">
   <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="rafaeldiehl"/></a>
   <a target="_blank" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true" alt="rafaeldiehl" /></a>
+</p>
   
   <p align="center">Obs: As principais linguagens não indicam minha habilidade, é uma estatística das linguagens eu mais tenho código.</p>
