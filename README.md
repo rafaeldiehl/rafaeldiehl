@@ -48,4 +48,4 @@
   <a target="_blank" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true" alt="rafaeldiehl" /></a>
 </p>
   
-  <p align="center">Obs: As principais linguagens não indicam minha habilidade, é uma estatística das linguagens eu mais tenho código.</p>
+  <p align="center">Obs: As principais linguagens não indicam minha habilidade, é uma estatística das linguagens com mais código.</p>
