@@ -1,12 +1,10 @@
-<img align="right" src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif">
-
 # Hello World, I'm Rafael! 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-rafaeljuliani1984@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaeljuliani1984@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Diehl-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-juliani-diehl-94317a198/ "Connect on LinkedIn")
-[![Discord Badge](https://img.shields.io/badge/-diehlrafael#4869-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app/ "Connect via Discord")
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-juliani-diehl-94317a198/ "Connect on LinkedIn")
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/user/diehlrafael#4869 "Connect via Discord")
 
-
+<img align="right" src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif">
 
 I'm Rafael, a latin american guy. I'm currently learning web development, focused on JavaScript and PHP. You can connect with me through the badges above.
 
