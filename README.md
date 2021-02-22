@@ -1,51 +1,36 @@
+<img align="right" src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif">
 
-<div align="center">
- <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" /><br>
-  <samp align="center">👋 Hello, World!</samp><br>
-</div>
+# Hello World, I'm Rafael! 👋🏼👨🏻‍💻
 
-<br>
-<p align="center">Meu nome é Rafael, tenho 17 anos e estou estudando desenvolvimento web.<br>Tenho conhecimento de <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>, <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>, <a target="_blank" href="https://www.javascript.com/">JavaScript</a> e <a target="_blank" href="https://nodejs.org/en/">Sass</a>, e no momento, <br> estou aprendendo <a target="_blank" href="https://getbootstrap.com/">Bootstrap</a>, <a target="_blank" href="https://nodejs.org/en/">Node.js</a>, <a target="_blank" href="https://pt-br.reactjs.org/">React</a>, <a target="_blank" href="https://www.typescriptlang.org/">TypeScript</a> e <a href="https://www.mysql.com/" target="_blank">MySQL</a>.  <br>Além disso, tenho interesse em <a target="_blank" href="https://www.php.net/">PHP</a> e  <a target="_blank" href="https://www.python.org/">Python.</a></p>
-<br>
+[![Gmail Badge](https://img.shields.io/badge/-rafaeljuliani1984@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaeljuliani1984@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Diehl-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-juliani-diehl-94317a198/ "Connect on LinkedIn")
+[![Discord Badge](https://img.shields.io/badge/-diehlrafael#4869-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.com/app/ "Connect via Discord")
 
-<p align="center">"Somos aquilo que fazemos repetidamente. A excelência, <br>portanto, não é um feito, mas um hábito."<br>― Will Durant</p>
 
-<hr>
 
-<h4 align="center">Linguagens e ferramentas</h4>
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="html5"  width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="css3"  width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/><br>
-<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/><br>
-  <img src="https://devicon.dev/devicon.git/icons/git/git-plain.svg" alt="git" width="30" height="30"/> 
-  <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30"/>
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-plain.svg" alt="linux" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/gimp/gimp-plain.svg" alt="gimp" width="30" height="30"/> 
-</p>
+I'm Rafael, a latin american guy. I'm currently learning web development, focused on JavaScript and PHP. You can connect with me through the badges above.
 
-<h4 align="center">Ambiente de desenvolvimento</h4>
-<p align="center">Sistema operacional: <a target="_blank" href="https://kubuntu.org/">Kubuntu 20.04</a><br>Editor de texto: <a target="_blank" href="https://code.visualstudio.com/">Visual Studio Code</a></p>
+-  🎓 Computer Network Technician by Federal Institute of São Paulo
+-  ❤️ I love games, philosophy and drawing
+-  🎯 I intend to improve my skills and work as a web developer this year
+-  🤹 Skills: HTML, CSS, JavaScript, PHP, Sass, Git, MySQL
+-  📚 Learning: TypeScript, Node.js, React, Next.js
 
-<h4 align="center">Contato</h4>
-<p align="center">
-<a href="https://github.com/rafaeldiehl" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="original"  width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/rafael-juliani-diehl-94317a198/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin"  width="30" height="30"></a>
-<a href="https://www.reddit.com/user/rafaeldiehl" target="_blank"><img src="https://camo.githubusercontent.com/5905f025939697c70f6b76e979e1e3232dcabb0a/68747470733a2f2f73312e6d7a7374617469632e636f6d2f75732f7233302f507572706c65362f76342f39382f63612f61362f39386361613637612d306435632d326430302d633234392d3239383331356634383539652f6d7a6c2e63667278766b6b6f2e706e67" alt="reddit"  width="30" height="30"></a>
-</p>
-
-<hr>
-
-<p align="center">
-  <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="rafaeldiehl"/></a>
-  <a target="_blank" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaeldiehl&layout=compact&hide_border=true" alt="rafaeldiehl" /></a>
-</p>
+<details>
+  <summary>Some of my Github Public Stats 💾</summary>
+ 
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=rafaeldiehl&show_icons=true&theme=radical)](https://github.com/rafaeldiehl)
+  ----
   
-  <p align="center">Obs: As principais linguagens não indicam minha habilidade, é uma estatística das linguagens com mais código.</p>
+</details>
+
+<details>
+  <summary>Find me around the web 🌐</summary>
+
+  [![Lol Badge](https://img.shields.io/badge/-League%20Of%20Legends-3792cb?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACvUlEQVRIS2NkoANgxGZHRUVFJQcHBzu63K5du3YeO3bsOKnuwmrJvn379js6OjqgG9bY2NjY0NDQQBVLJCQkRC9dunRVVFRUFNlAkCUHDhw4YG1tbXPt2rVr69ev38rAwPCTkKVYfQLSBHJxfX19PTZLnJ2dXUxMTIxdXFxcVqxYsbqjo6Pl6tWr13BZRpYllpaWVseOHTt88ODBU0VFRdkgB3V0dHS2tbW1YrMIqyXGxsZGvr6+fth8AjIEJv7mzZs3dXV1tevWrVu3Zs2a9Y8ePXoQHR0djW4RhiWVlZVV7OzsbMiGwTSB4gSb+P79+/c6OTn5Hz58eNf27du3ofsIxRJtbW2t48ePn1BRUVHNysrKJOQTZBeDLIqMjIy6ffv2HUtLSwvkOEKxZPHixcvOnz9/pq+vb2JDQ0MtKZaALAQ5jJOTk8vQ0NAkNjY2CuYIZEvYf//+/YWVlZU3MzMzWVxcXJRUS0BxJCoqKgM1hweWvOGWBAYGBqWlpaW2tLS0urq6upASJ8jBZmNjY1dTU1M1a9as2evXr18HkoNbUl1dXcPBwcHx7du3b6RGPLIlVVVV1VxcXFw/fvz40dra2oJiSV1dXT0TExPjv3///oNocn1SX1/fADOnqakJnBrp6xMqxoltbW1tzaxZs2auW7duPYpPGBgYKE5dr1+/fi0mJib369evT2xsbLwYqQtk46JFi5ZeuHDhLAX5JJ2Tk5PPwMDAMC4uDl68UC3H79y5c09sbGzsvXv3bhsZGZndvn37OrbMCBZDrhWxZUaqVVq4SmGQI/7///+fUCUFki8tLS3t7e3tRY94uF5QfbFv3769oMxJjIHoarZu3brNx8fHB+QmrJaALNi/f/8+dnZ2jIYEMRaiW4DVEisrK0s3Nzd3YgxEV/Pz589f7e3t7TAf4Ix4cgwnpAcARyCOKbETs2AAAAAASUVORK5CYII=)](https://br.op.gg/summoner/userName=Fumo%20JavaScript)
+  [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/rafaeldiehl/ "Find on Reddit")
+  ----
+
+</details>
+
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit. " ―  Will Durant
